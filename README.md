@@ -64,4 +64,3 @@ This project is licensed under the [MIT License](LICENSE).
 - The `pyttsx3` library for providing text-to-speech functionality on Windows.
 - The macOS built-in `say` command for speech synthesis on macOS.
 
-Feel free to customize this README section according to your project's specific needs. You can add additional sections, such as examples, configuration options, or any other relevant information.
