@@ -13,7 +13,7 @@ RoboSpeaker is a simple Python script that allows you to convert text to speech 
 1. Clone the repository or download the source code:
 
 ```
-git clone https://github.com/gyanendu01/RoboSpeaker.git
+git clone https://github.com/Gyanendu01/RoboSpeaker.git
 ```
 
 2. Navigate to the project directory:
@@ -38,13 +38,13 @@ cd RoboSpeaker
    - On macOS:
 
      ```
-     python robospeaker.py
+     python main.py
      ```
 
    - On Windows:
 
      ```
-     python robospeaker.py
+     python main.py
      ```
 
 2. Enter the text you want to convert to speech when prompted.
